@@ -1,0 +1,4 @@
+﻿  ATM.cpp
+C:\Users\Elnour Tech\source\repos\ATM\ATM\ATM.cpp(71,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Elnour Tech\source\repos\ATM\ATM\ATM.cpp(211,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ATM.vcxproj -> C:\Users\Elnour Tech\source\repos\ATM\x64\Debug\ATM.exe
